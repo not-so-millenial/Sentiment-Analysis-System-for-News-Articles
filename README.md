@@ -96,16 +96,6 @@ The notebook performs:
 | **Topic Modeling** | Extracting high-level topics using LDA |
 | **Text Cleaning** | Removing stopwords, punctuation, and noise |
 
----
-
-## 📈 Sample Output
-
-- 📄 Dataframe of scraped news links
-- 📊 Bar plots of sentiment distribution
-- 📚 Top keywords per topic
-- 🧾 Named entities highlighted in articles
-
----
 
 ## 🧠 Technologies Used
 
@@ -114,22 +104,3 @@ The notebook performs:
 - `Transformers (HuggingFace)` for sentiment classification
 - `Gensim` for topic modeling
 - `Seaborn/Matplotlib` for visualization
-- `Streamlit` for interactive web UI (if deployed)
-
----
-
-## 📌 Resume Highlights (as per usage in this project)
-
-- **Developed data pipelines** to efficiently extract, clean, and transform unstructured text from the web.
-- **Applied advanced NLP techniques** including tokenization, POS tagging, and named entity recognition.
-- **Leveraged Transformers** for sentiment analysis and **LDA** for topic modeling.
-- **Generated actionable insights** through visualizations and computed statistics on text data.
-
----
-
-## 📬 Contact
-
-For questions or collaborations, reach out at:  
-**[Your Name]** – *AI Engineer*  
-📧 your.email@example.com  
-📍 Bangalore, India
